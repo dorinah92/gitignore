@@ -1,3 +1,8 @@
-new-file.txt
 
+#Ignore single file
+new-file.txt
+#ignore all files in the bin directory
 bin/
+
+Ignore all .tmpl files
+*.tmp
